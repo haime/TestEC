@@ -1,0 +1,11 @@
+1 Ingresar a la plataforma web.
+    -Iniciar sesión.
+    -En dado caso de no estar registrado, abrir una cuenta en la plataforma. 
+2 Entrar a la parte de subscripciones.
+    -Seleccionar la suscripción a adquirir.
+3 Métodos de pago. 
+    -Verificar las opciones de pago. 
+4 Contratar membresía de periodos flexibles.
+    -Realizar las modificaciones en el perfil del usuario.
+    -Verificar si las modificaciones surgieron efecto.
+    - Dar aviso al usuario que su servicio está listo.
